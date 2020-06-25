@@ -50,14 +50,20 @@ social:
 - icon: github
   icon_pack: fab
   link: http://github.com/baski363
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3490-4257
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Balabhaskar_Balasundaram
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: files/Baski_CV.pdf
+  icon_pack: ai
+  link: files/Baski_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "baski.b@pm.me"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
