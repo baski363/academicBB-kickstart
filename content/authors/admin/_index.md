@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include theoretical, algorithmic, and computational aspects of solving network optimization problems.
 
 interests:
-- Theory, algorithms, and computation in network optimization
+- Network optimization
 - Optimization applications
 
 education:
