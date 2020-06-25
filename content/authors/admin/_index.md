@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Industrial Engineering & Management
+role: Wilson Bentley Professor of Industrial Engineering & Management
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,8 @@ organizations:
 bio: My research interests include theoretical, algorithmic, and computational aspects of solving network optimization problems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Theory, algorithms, and computation in network optimization
+O- ptimization applications
 
 education:
   courses:
@@ -53,9 +52,9 @@ social:
   link: http://github.com/baski363
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: files/Baski_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
