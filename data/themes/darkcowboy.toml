@@ -5,8 +5,11 @@ name = "DarkCowboy"
 light = false
 
 # Primary
-# primary = "hsl(339, 90%, 68%)"
-primary = "rgb(255, 124, 25)"
+# primary = "hsl(339, 90%, 68%)" #original pink
+# primary = "rgb(255, 124, 25)" #cowboy dark orange
+primary = "rgb(142, 68, 173)" #purple
+# primary = "rgb(20, 143, 119)" #teal
+# primary = "rgb(46, 134, 193)" #aqua blue
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
