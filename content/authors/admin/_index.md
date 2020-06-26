@@ -44,6 +44,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DesmoBaski
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/baski363/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ZlyoHsIAAAAJ&hl=en
