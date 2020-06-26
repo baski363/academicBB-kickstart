@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Appointments"
 subtitle = ""
 
 # Date format for experience
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Stillwater, Oklahoma, USA"
   date_start = "2016-07-01"
   date_end = "2019-06-30"
-  
+
 [[experience]]
   title = "Assistant Professor"
   company = """School of Industrial Engineering and Management, Oklahoma State University"""
