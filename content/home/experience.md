@@ -21,8 +21,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  department = """School of Industrial Engineering and Management"""
-  company = "Oklahoma State University"
+  company = """School of Industrial Engineering and Management, Oklahoma State University"""
   company_url = ""
   location = "Stillwater, Oklahoma, USA"
   date_start = "2020-06-19"

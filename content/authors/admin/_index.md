@@ -67,9 +67,9 @@ email: "baski.b@pm.me"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I received my Ph.D in Industrial Engineering from Texas A&M University, 2007 and my B.Tech in Mechanical Engineering from the Indian Institute of Technology-Madras in 2002. Theoretical, algorithmic, and computational aspects of solving network optimization problems are my main research interests.
