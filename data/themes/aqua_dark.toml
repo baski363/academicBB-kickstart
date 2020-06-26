@@ -2,7 +2,7 @@
 name = "Aqua Dark"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 # primary = "hsl(339, 90%, 68%)"
