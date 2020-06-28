@@ -8,8 +8,8 @@ light = false
 # primary = "hsl(339, 90%, 68%)" #original pink
 # primary = "rgb(255, 124, 25)" #cowboy dark orange
 # primary = "rgb(142, 68, 173)" #purple
-# primary = "rgb(20, 143, 119)" #teal
- primary = "rgb(46, 134, 193)" #aqua blue
+primary = "rgb(20, 143, 119)" #teal
+# primary = "rgb(46, 134, 193)" #aqua blue
 # primary = "rgb(46, 204, 113)" #green
 
 # Menu
