@@ -78,6 +78,6 @@ social:
 
 I received my Ph.D in Industrial Engineering from Texas A&M University, 2007 and my B.Tech in Mechanical Engineering from the Indian Institute of Technology-Madras in 2002. Theoretical, algorithmic, and computational aspects of solving network optimization problems are my main research interests.
 
-I am very interested in the analysis of complex biological and social networks using graph-theoretic concepts and optimization techniques. I often work on projects that apply optimization models and methods to solve problems that arise in transportation logistics, production-inventory planning, scheduling, routing, and other classical areas of operations research.
+I am very interested in the analysis of complex biological and social networks using graph-theoretic concepts and optimization techniques. I often work on projects that apply optimization tools to solve problems that arise in transportation logistics, production-inventory planning, scheduling, routing, and other classical areas of operations research.
 
 My work has been sponsored by the NSF, DoE, AFOSR, and industry. Publications coauthored with my students and other collaborators have appeared in _Operations Research_, _INFORMS Journal on Computing_, and _INFORMS Journal on Applied Analytics_, among others. I serve on the editorial boards of _Networks_ (Wiley), _Operations Research Forum_ (Springer Nature), and _Journal of Global Optimization_ (Springer).
