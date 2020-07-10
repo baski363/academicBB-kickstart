@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 ## Writing style tips & tricks:
-* Ten Simple Rules for Mathematical Writing by Prof. Bertsekas
+* [Ten Simple Rules for Mathematical Writing by Prof. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 * Prof. Cole Smith's "Writing tips and style guidelines"
 * The Elements of Style, Fourth Edition by William Strunk Jr. et al.
 * Dashes: - vs. -- vs. ---
