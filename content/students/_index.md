@@ -55,28 +55,28 @@ header:
 * Marcus Concienne, Mitchel McCowan, Doann Nguyen (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
 ## Undergraduate Papers Mentored
 * Bailey Whitman, _Determining an Optimal Inventory Mix for NABco Industries_
-- First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
-- Finalist, IISE International Undergraduate Student Paper Competition, May 2018
+  - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
+  - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
 * Andrea Lewis, Katey Luster, Weikao Wu, _Delivery Vehicle Routing at the Regional Food Bank of Oklahoma_
-- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2015
-- Finalist, IIE International Undergraduate Student Paper Competition, June 2015
-- Participant, INFORMS Undergraduate Poster Competition, Nov 2014
+  - First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2015
+  - Finalist, IIE International Undergraduate Student Paper Competition, June 2015
+  - Participant, INFORMS Undergraduate Poster Competition, Nov 2014
 * Ian Giese, _Michelin Recyclable Material Planning Tool_
-​- First Place,  2014 IIE Process Industry Division Student Paper Competition
+  ​- First Place,  2014 IIE Process Industry Division Student Paper Competition
 * Erin Lee, _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
-​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2014
+  ​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2014
 - Finalist, IIE International Undergraduate Student Paper Competition, June 2014
 * Justin Whisenant, _Webco Industries, Inc. Steel Coil Optimization_
-- Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
+  - Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 ​* Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
-​- Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
+  ​- Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * Austin Buchanan, Adrian Smith, _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
-​- First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
-- First Place, IIE International Undergraduate Student Paper Competition, May 2012
-- Participant, INFORMS Undergraduate Paper Competition, Nov 2011
+  ​- First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
+  - First Place, IIE International Undergraduate Student Paper Competition, May 2012
+  - Participant, INFORMS Undergraduate Paper Competition, Nov 2011
 * Thomas Hong, Julianna Bright, Carrie Walker, _An Investigation into the Current Distribution System at Ditch Witch in Perry, Oklahoma_
-​- ​First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, Feb 2010
-- First Place, IIE International Undergraduate Student Paper Competition, May 2010
+  ​- ​First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, Feb 2010
+  - First Place, IIE International Undergraduate Student Paper Competition, May 2010
 * Marcus Concienne, Mitchel McCowan, _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
-​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2009
-- Third Place, IIE International Undergraduate Student Paper Competition, May 2009
+  ​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2009
+  - Third Place, IIE International Undergraduate Student Paper Competition, May 2009
