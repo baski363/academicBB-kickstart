@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-## Doctoral Students Advised
+## Doctoral Students
 * [Parisa Sharaeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (in progress)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (in progress)
 * [Yajun Lu](https://www.linkedin.com/in/yajunlu) (July 2019), Dissertation: _Finding second-order clubs_
@@ -22,7 +22,7 @@ header:
 * [Esmaeel Moradi](https://www.linkedin.com/in/esmaeel-moradi-ph-d-786b7748) (May 2015), Dissertation: _Decomposition algorithms for detecting low-diameter clusters in graphs_
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://www.umb.edu/faculty_staff/bio/foad_mahdavi_pajouh) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
-## Masters Students Advised
+## Masters Students
 * Pouya Ahadi (in progress)
 * Tyler Davis (Fall 2017), Thesis: _Parallelization of the Clark, Colbourn, and Johnson maximum clique algorithm for unit disk graphs_
 * Rajeev Gangwar (Spring 2017)
@@ -44,7 +44,7 @@ header:
 * Sameer Mangalvedhe (Fall 2010), Thesis: _Greedy randomized adaptive search procedure for the maximum 2-club problem_
 * Rahul Banda (Fall 2009)
 * Krishna Chaitanya Gunturu (Summer 2009)
-## Senior Projects Mentored
+## Senior Design Teams
 * Jennifer Fallon, Brittany Grubert, Rylee Hunter, Charlie Robson (Spring 2020), _Increasing Air Fleet Availability at the OSU Flight Center_
 * Ahmed Almuhanna, Andrew Browning, Erica Crain, Michael Moylan (Spring 2019), _Enhancement of Inventory Simulator for Engine Parts at American Airlines Maintenance Facility_
 * Ronnie Comeau, Jazmin Wilson, Qidong Zhai (Fall 2017), _An Optimized Scheduling Methodology for Air Traffic Controllers at the Federal Aviation Administration_
@@ -53,7 +53,7 @@ header:
 * Erin Lee, Steven Miklosko, Amy Zeckser (Spring 2013), _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
 * Marco Borunda, Nadia Brigita, Bailey Layman (Fall 2009), _An Investigation of High Patient Waiting Time at the Baptist Community Clinic_
 * Marcus Concienne, Mitchel McCowan, Doann Nguyen (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
-## Undergraduate Papers Mentored
+## Undergraduate Student Papers 
 * Bailey Whitman, _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
