@@ -65,7 +65,7 @@ header:
   ​- First Place,  2014 IIE Process Industry Division Student Paper Competition
 * Erin Lee, _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
   ​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2014
-- Finalist, IIE International Undergraduate Student Paper Competition, June 2014
+  - Finalist, IIE International Undergraduate Student Paper Competition, June 2014
 * Justin Whisenant, _Webco Industries, Inc. Steel Coil Optimization_
   - Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 ​* Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
