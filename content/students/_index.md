@@ -68,7 +68,7 @@ header:
   - Finalist, IIE International Undergraduate Student Paper Competition, June 2014
 * Justin Whisenant, _Webco Industries, Inc. Steel Coil Optimization_
   - Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
-​* Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
+* Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
   ​- Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * Austin Buchanan, Adrian Smith, _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
   - First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
@@ -78,5 +78,5 @@ header:
   - ​First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, Feb 2010
   - First Place, IIE International Undergraduate Student Paper Competition, May 2010
 * Marcus Concienne, Mitchel McCowan, _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
-  ​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2009
+  - First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2009
   - Third Place, IIE International Undergraduate Student Paper Competition, May 2009
