@@ -75,7 +75,7 @@ header:
   - First Place, IIE International Undergraduate Student Paper Competition, May 2012
   - Participant, INFORMS Undergraduate Paper Competition, Nov 2011
 * Thomas Hong, Julianna Bright, Carrie Walker, _An Investigation into the Current Distribution System at Ditch Witch in Perry, Oklahoma_
-  ​- ​First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, Feb 2010
+  - ​First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, Feb 2010
   - First Place, IIE International Undergraduate Student Paper Competition, May 2010
 * Marcus Concienne, Mitchel McCowan, _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
   ​- First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2009
