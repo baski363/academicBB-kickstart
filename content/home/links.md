@@ -66,3 +66,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+## Writing style:
+* Ten Simple Rules for Mathematical Writing by Prof. Bertsekas
+* Prof. Cole Smith's "Writing tips and style guidelines"
+* The Elements of Style, Fourth Edition by William Strunk Jr. et al.
+* Dashes: - vs. -- vs. ---
+* Causal conjunctions: Since vs. As vs. Because
+* LaTeX packages for writing pseudocdes
+## OR/CS/Math blogs:
+* Farkas' Dilemma
+* OR in an OB World
