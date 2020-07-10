@@ -71,7 +71,7 @@ header:
 ​* Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
   ​- Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * Austin Buchanan, Adrian Smith, _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
-  ​- First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
+  - First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
   - First Place, IIE International Undergraduate Student Paper Competition, May 2012
   - Participant, INFORMS Undergraduate Paper Competition, Nov 2011
 * Thomas Hong, Julianna Bright, Carrie Walker, _An Investigation into the Current Distribution System at Ditch Witch in Perry, Oklahoma_
