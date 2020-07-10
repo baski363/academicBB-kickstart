@@ -68,11 +68,11 @@ subtitle = ""
 +++
 ## Writing style tips & tricks:
 * [Ten Simple Rules for Mathematical Writing by Prof. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
-* Prof. Cole Smith's "Writing tips and style guidelines"
-* The Elements of Style, Fourth Edition by William Strunk Jr. et al.
-* Dashes: - vs. -- vs. ---
-* Causal conjunctions: Since vs. As vs. Because
-* LaTeX packages for writing pseudocdes
+* Prof. Cole Smith's ["Writing tips and style guidelines"](http://jcsmith.people.clemson.edu/tips/Tips_Home.html)
+* [The Elements of Style by William Strunk Jr. et al.](http://a.co/eROzGjT)
+* [Dashes](https://tex.stackexchange.com/questions/3819/dashes-vs-vs#3821): - vs. -- vs. ---
+* [Causal conjunctions](https://www.merriam-webster.com/words-at-play/since-as-because-usage): Since vs. As vs. Because
+* [LaTeX packages for writing pseudocodes](https://tex.stackexchange.com/questions/229355/algorithm-algorithmic-algorithmicx-algorithm2e-algpseudocode-confused)
 ## Interesting blogs:
-* Farkas' Dilemma
-* OR in an OB World
+* [Farkas' Dilemma](https://farkasdilemma.wordpress.com/)
+* [OR in an OB World](https://orinanobworld.blogspot.com/)
