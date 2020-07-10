@@ -69,7 +69,7 @@ header:
 * Justin Whisenant, _Webco Industries, Inc. Steel Coil Optimization_
   - Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * Ajay Reddy, Ryan Sullivan, _An Analysis of Process Documentation at a Software Providing Organization_
-  ​- Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
+  - Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * Austin Buchanan, Adrian Smith, _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
   - First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
   - First Place, IIE International Undergraduate Student Paper Competition, May 2012
