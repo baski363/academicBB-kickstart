@@ -70,5 +70,5 @@ subtitle = ""
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456)
 * Pouya Ahadi
 {{% alert note %}}
-Complete list of former students [can be found here.]({{< ref "/publication/_index.md" >}})
+Complete list of former students [can be found here.]({{< ref "/students/_index.md" >}})
 {{% /alert %}}

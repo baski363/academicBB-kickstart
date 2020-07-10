@@ -73,6 +73,8 @@ subtitle = ""
 * [Dashes](https://tex.stackexchange.com/questions/3819/dashes-vs-vs#3821): - vs. -- vs. ---
 * [Causal conjunctions](https://www.merriam-webster.com/words-at-play/since-as-because-usage): Since vs. As vs. Because
 * [LaTeX packages for writing pseudocodes](https://tex.stackexchange.com/questions/229355/algorithm-algorithmic-algorithmicx-algorithm2e-algpseudocode-confused)
+## Reading tips & tricks:
+* [How to Read a Paper, S. Keshav, 2007](https://doi.org/10.1145/1273445.1273458)
 ## Interesting blogs:
 * [Farkas' Dilemma](https://farkasdilemma.wordpress.com/)
 * [OR in an OB World](https://orinanobworld.blogspot.com/)
