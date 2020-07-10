@@ -66,7 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Current Students
 * [Parisa Sharaeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456)
 * Pouya Ahadi
