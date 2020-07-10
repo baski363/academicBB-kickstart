@@ -53,7 +53,7 @@ header:
 * Erin Lee, Steven Miklosko, Amy Zeckser (Spring 2013), _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
 * Marco Borunda, Nadia Brigita, Bailey Layman (Fall 2009), _An Investigation of High Patient Waiting Time at the Baptist Community Clinic_
 * Marcus Concienne, Mitchel McCowan, Doann Nguyen (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
-## Undergraduate Student Papers 
+## Undergraduate Student Papers
 * Bailey Whitman, _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
@@ -62,7 +62,7 @@ header:
   - Finalist, IIE International Undergraduate Student Paper Competition, June 2015
   - Participant, INFORMS Undergraduate Poster Competition, Nov 2014
 * Ian Giese, _Michelin Recyclable Material Planning Tool_
-  ​- First Place,  2014 IIE Process Industry Division Student Paper Competition
+  - First Place,  2014 IIE Process Industry Division Student Paper Competition
 * Erin Lee, _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
   - First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2014
   - Finalist, IIE International Undergraduate Student Paper Competition, June 2014
