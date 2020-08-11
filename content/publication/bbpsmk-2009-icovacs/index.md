@@ -1,7 +1,7 @@
 ---
 title: "Models for clustering commodities into logistical families"
 date: 2009-01-01
-publishDate: 2020-08-10T21:28:28.810456Z
+publishDate: 2020-08-11T15:52:06.426836Z
 authors: ["Peerapol Sittivijan", "Manjunath Kamath", "Balabhaskar Balasundaram"]
 publication_types: ["1"]
 abstract: ""
