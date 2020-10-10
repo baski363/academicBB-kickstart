@@ -16,12 +16,12 @@ header:
 ## Doctoral Students
 * [Parisa Sharaeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (in progress)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (in progress)
-* [Yajun Lu](https://www.linkedin.com/in/yajunlu) (July 2019), Dissertation: _Finding second-order clubs_
+* [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
 * [Zhuqi Miao](https://www.linkedin.com/in/zhuqi-miao-84579a54) (May 2015), Dissertation: _Combinatorial and global optimization approaches to the maximum quasi-clique problem_
 * [Esmaeel Moradi](https://www.linkedin.com/in/esmaeel-moradi-ph-d-786b7748) (May 2015), Dissertation: _Decomposition algorithms for detecting low-diameter clusters in graphs_
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
-* [Foad Mahdavi Pajouh](https://www.umb.edu/faculty_staff/bio/foad_mahdavi_pajouh) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
+* [Foad Mahdavi Pajouh](https://sites.google.com/site/foadmahdavi/) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
 * Pouya Ahadi (in progress)
 * [Tyler Davis](https://www.linkedin.com/in/tyler-davis-197012153/) (Fall 2017), Thesis: _Parallelization of the Clark, Colbourn, and Johnson maximum clique algorithm for unit disk graphs_
