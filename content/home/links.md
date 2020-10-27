@@ -20,7 +20,7 @@ subtitle = ""
 * [Causal conjunctions](https://www.merriam-webster.com/words-at-play/since-as-because-usage): Since vs. As vs. Because
 * [LaTeX packages for writing pseudocodes](https://tex.stackexchange.com/questions/229355/algorithm-algorithmic-algorithmicx-algorithm2e-algpseudocode-confused)
 ## Reading tips & tricks:
-* [How to Read a Paper by Prof. Keshav](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)
+* [How to Read a Paper by Prof. Keshav](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 ## Interesting blogs:
 * [Farkas' Dilemma](https://farkasdilemma.wordpress.com/)
 * [OR in an OB World](https://orinanobworld.blogspot.com/)
