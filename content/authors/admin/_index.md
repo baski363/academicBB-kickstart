@@ -57,9 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Balabhaskar_Balasundaram
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-3490-4257
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-3490-4257
 #- icon: graduation-cap
 #  icon_pack: fas
 - icon: dryad
@@ -67,9 +67,9 @@ social:
   link: https://www.genealogy.math.ndsu.nodak.edu/id.php?id=110649
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/Baski_CV.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Baski_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "baski.b@pm.me"
