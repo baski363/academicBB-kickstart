@@ -15,7 +15,7 @@ role: Wilson Bentley Professor of Industrial Engineering & Management
 # Organizations/Affiliations
 organizations:
 - name: Oklahoma State University
-  url: "https://iem.okstate.edu/content/baski"
+  url: "https://ceat.okstate.edu/iem/people/baski-faculty-profile.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include theoretical, algorithmic, and computational aspects of solving network optimization problems.
