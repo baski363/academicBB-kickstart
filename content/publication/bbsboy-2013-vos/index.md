@@ -1,7 +1,7 @@
 ---
 title: "Variable Objective Search"
 date: 2013-08-01
-publishDate: 2020-08-11T15:52:06.444866Z
+publishDate: 2020-12-10T15:11:07.474136Z
 authors: ["Sergiy Butenko", "Oleksandra Yezerska", "Balabhaskar Balasundaram"]
 publication_types: ["2"]
 abstract: "This paper introduces the variable objective search framework for combinatorial optimization. The method utilizes different objective functions used in alternative mathematical programming formulations of the same combinatorial optimization problem in an attempt to improve the solutions obtained using each of these formulations individually. The proposed technique is illustrated using alternative quadratic unconstrained binary formulations of the classical maximum independent set problem in graphs."

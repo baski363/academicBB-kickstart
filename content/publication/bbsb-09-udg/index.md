@@ -1,7 +1,7 @@
 ---
 title: "Optimization problems in unit-disk graphs"
 date: 2009-01-01
-publishDate: 2020-08-11T15:52:06.440685Z
+publishDate: 2020-12-10T15:11:07.469881Z
 authors: ["Balabhaskar Balasundaram", "Sergiy Butenko"]
 publication_types: ["6"]
 abstract: ""
