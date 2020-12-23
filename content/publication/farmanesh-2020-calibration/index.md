@@ -10,4 +10,3 @@ publication: "*IISE Transactions*"
 url_pdf: "https://doi.org/10.1080/24725854.2020.1774688"
 doi: "10.1080/24725854.2020.1774688"
 ---
-
