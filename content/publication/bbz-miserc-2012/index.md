@@ -1,7 +1,7 @@
 ---
 title: "Cluster detection in large-scale social networks using $k$-plexes"
 date: 2012-01-01
-publishDate: 2020-12-12T02:56:21.577800Z
+publishDate: 2020-12-23T16:34:51.511643Z
 authors: ["Zhuqi Miao", "Balabhaskar Balasundaram"]
 publication_types: ["1"]
 abstract: "Cliques have long been the standardmodel for cluster detection in graph-based datamining. However, clique definition is overly restrictive making the approach unsuitable for real-life networks that are constructed based on erroneous or incomplete data. A parameterized clique relaxation called a $k$-plex that overcomes this drawback was introduced in social network analysis for detecting cohesive social subgroups. Several exact algorithms for the maximum $k$-plex problem were recently developed. However, heuristic approaches which are more suitable for the analysis of largescale social networks are unavailable. This article develops an effective greedy randomized adaptive search procedure (GRASP) and compares its performance on standard benchmarks against integer programming heuristics available in a well-known commercial solver. More significantly, this article demonstrates that an exact algorithm for solving this problem on power-law graphs can be considerably enhanced by using GRASP, so that the combination is able to solve the problem to optimality on much larger social networks than previously known."

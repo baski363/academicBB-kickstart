@@ -1,7 +1,7 @@
 ---
 title: "Gradient-Type Methods"
 date: 2011-01-01
-publishDate: 2020-12-12T02:56:21.580737Z
+publishDate: 2020-12-23T16:34:51.515217Z
 authors: ["Foad Mahdavi Pajouh", "Balabhaskar Balasundaram"]
 publication_types: ["6"]
 abstract: "The gradient method , which is also called the method of steepest descent, and the Cauchy method, is one of the most fundamental derivative‐based procedure for unconstrained minimization of a differentiable function. The performance of the method in terms of speed of convergence is lacking, and it tends to suffer from very slow convergence, especially as a stationary point is approached. However, it does guarantee global convergence under reasonable conditions and admits a thorough mathematical analysis of its behavior. For this reason, the gradient method has been used as a starting point in the development of more sophisticated, globally convergent algorithms with better convergence properties for unconstrained minimization. This article presents a cogent overview of this fundamental method and its convergence properties under various settings."
