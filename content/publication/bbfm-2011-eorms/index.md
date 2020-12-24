@@ -8,6 +8,6 @@ abstract: "_The gradient method,_ which is also called _the method of steepest d
 featured: false
 publication: "*Wiley Encyclopedia of Operations Research and Management Science*"
 tags: ["unconstrained optimization", "gradient method", "method of steepest descent", "Cauchy method", "subgradient method"]
-url_pdf: "http://dx.doi.org/10.1002/9780470400531.eorms0363"
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470400531.eorms0363"
 doi: "10.1002/9780470400531.eorms0363"
 ---
