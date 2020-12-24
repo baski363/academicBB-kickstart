@@ -1,5 +1,5 @@
 ---
-title: "Gradient-Type Methods"
+title: "Gradient-type methods"
 date: 2011-01-01
 publishDate: 2020-12-23T16:51:07.052986Z
 authors: ["Foad Mahdavi Pajouh", "Balabhaskar Balasundaram"]
@@ -11,4 +11,3 @@ tags: ["unconstrained optimization", "gradient method", "method of steepest desc
 url_pdf: "http://dx.doi.org/10.1002/9780470400531.eorms0363"
 doi: "10.1002/9780470400531.eorms0363"
 ---
-

@@ -1,5 +1,5 @@
 ---
-title: "A Specialty Steel Bar Company Uses Analytics to Determine Available-to-Promise Dates"
+title: "A specialty steel bar company uses analytics to determine available-to-promise dates"
 date: 2013-01-01
 publishDate: 2020-12-23T16:51:07.042877Z
 authors: ["Foad Mahdavi Pajouh", "Dahai Xing", "Yingjue Zhou", "Sharethram Hariharan", "Balabhaskar Balasundaram", "Tieming Liu", "Ramesh Sharda"]
@@ -10,4 +10,3 @@ publication: "*INFORMS Journal on Applied Analytics*"
 url_pdf: "https://doi.org/10.1287/inte.2013.0693"
 doi: "10.1287/inte.2013.0693"
 ---
-

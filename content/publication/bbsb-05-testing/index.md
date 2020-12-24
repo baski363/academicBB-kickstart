@@ -1,5 +1,5 @@
 ---
-title: "Constructing Test Functions for Global Optimization Using Continuous Formulations of Graph Problems"
+title: "Constructing test functions for global optimization using continuous formulations of graph problems"
 date: 2005-08-01
 publishDate: 2020-12-23T16:51:07.051223Z
 authors: ["Balabhaskar Balasundaram", "Sergiy Butenko"]
@@ -10,4 +10,3 @@ publication: "*Journal of Optimization Methods and Software*"
 url_pdf: "https://doi.org/10.1080/10556780500139641"
 doi: "10.1080/10556780500139641"
 ---
-

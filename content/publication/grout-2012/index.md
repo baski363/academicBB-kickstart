@@ -1,5 +1,5 @@
 ---
-title: "Significant Winter Weather Events and Associated Socioeconomic Impacts (Federal Aid Expenditures) across Oklahoma: 2000-2010"
+title: "Significant winter weather events and associated socioeconomic impacts (federal aid expenditures) across Oklahoma: 2000-2010"
 date: 2012-01-01
 publishDate: 2020-12-23T16:51:07.062581Z
 authors: ["Trevor Grout", "Yang Hong", "Jeffrey Basara", "Balabhaskar Balasundaram", "Zhenyu Kong", "Satish T. S. Bukkapatnam"]
@@ -10,4 +10,3 @@ publication: "*Weather, Climate, and Society*"
 url_pdf: "https://doi.org/10.1175/WCAS-D-11-00057.1"
 doi: "10.1175/WCAS-D-11-00057.1"
 ---
-

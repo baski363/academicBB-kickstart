@@ -1,5 +1,5 @@
 ---
-title: "Graph Theoretic Generalizations Of Clique: Optimization and Extensions"
+title: "Graph theoretic generalizations of clique: Optimization and extensions"
 date: 2007-01-01
 publishDate: 2020-12-23T16:51:07.055029Z
 authors: ["Balabhaskar Balasundaram"]
@@ -9,4 +9,3 @@ featured: false
 publication: ""
 url_pdf: "https://search.proquest.com/docview/304727446/"
 ---
-

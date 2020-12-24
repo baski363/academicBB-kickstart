@@ -1,5 +1,5 @@
 ---
-title: "Topology Design for On-Demand Dual-Path Routing in Wireless Networks"
+title: "Topology design for on-demand dual-path routing in wireless networks"
 date: 2013-04-01
 publishDate: 2020-12-23T16:51:07.064796Z
 authors: ["Marco Carvalho", "Alexey Sorokin", "Vladimir Boginski", "Balabhaskar Balasundaram"]
@@ -10,4 +10,3 @@ publication: "*Optimization Letters*"
 url_pdf: "https://rdcu.be/b6a3j"
 doi: "10.1007/s11590-012-0453-0"
 ---
-
