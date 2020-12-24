@@ -8,5 +8,5 @@ abstract: "This paper introduces and studies the maximum $k$-plex problem, which
 featured: false
 publication: "*Operations Research*"
 url_pdf: "https://pubsonline.informs.org/doi/abs/10.1287/opre.1100.0851"
-doi: "https://doi.org/10.1287/opre.1100.0851"
+doi: "10.1287/opre.1100.0851"
 ---
