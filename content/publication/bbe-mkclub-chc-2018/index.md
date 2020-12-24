@@ -10,4 +10,3 @@ publication: "*Optimization Letters*"
 url_pdf: "https://rdcu.be/b6a2W"
 doi: "10.1007/s11590-015-0971-7"
 ---
-
