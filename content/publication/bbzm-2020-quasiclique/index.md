@@ -1,5 +1,5 @@
 ---
-title: "An Ellipsoidal Bounding Scheme for the Quasi-Clique Number of a Graph"
+title: "An ellipsoidal bounding scheme for the quasi-clique number of a graph"
 date: 2020-08-01
 publishDate: 2020-12-23T16:51:07.044919Z
 authors: ["Zhuqi Miao", "Balabhaskar Balasundaram"]
