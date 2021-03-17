@@ -57,7 +57,7 @@ header:
 * [Bailey Whitman](https://www.linkedin.com/in/bailey-whitman-bonjour-01a141bb/), _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
-* [Andrea Lewis](https://www.linkedin.com/in/andrea-redwine-32947445/), [Katey Luster](https://www.linkedin.com/in/kateyluster/), [Weikao Wu](https://www.linkedin.com/in/weikao-wu-9b0392a1/), _Delivery Vehicle Routing at the Regional Food Bank of Oklahoma_
+* [Andrea Lewis](https://www.linkedin.com/in/andrea-lewis-32947445/), [Katey Luster](https://www.linkedin.com/in/kateyluster/), [Weikao Wu](https://www.linkedin.com/in/weikao-wu-9b0392a1/), _Delivery Vehicle Routing at the Regional Food Bank of Oklahoma_
   - First Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2015
   - Finalist, IIE International Undergraduate Student Paper Competition, June 2015
   - Participant, INFORMS Undergraduate Poster Competition, Nov 2014
