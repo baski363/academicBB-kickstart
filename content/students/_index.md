@@ -23,7 +23,7 @@ header:
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://sites.google.com/site/foadmahdavi/) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
-* Pouya Ahadi (in progress)
+* Pouya Ahadi (Expected Spring 2021), Thesis: _Optimizing Expected Cross Value For Genetic Introgression_
 * [Tyler Davis](https://www.linkedin.com/in/tyler-davis-197012153/) (Fall 2017), Thesis: _Parallelization of the Clark, Colbourn, and Johnson maximum clique algorithm for unit disk graphs_
 * [Rajeev Gangwar](https://www.linkedin.com/in/gangwarrajeev) (Spring 2017)
 * [Sampreet Mangalvedhe](https://www.linkedin.com/in/sampreetmangalvedhe) (Fall 2016), Thesis:  _On a biobjective flow problem in networks_
@@ -54,7 +54,7 @@ header:
 * [Marco Borunda](https://www.linkedin.com/in/marco-borunda/), [Nadia Brigita](https://www.linkedin.com/in/nadia-brigita-95b61b44/), Bailey Layman (Fall 2009), _An Investigation of High Patient Waiting Time at the Baptist Community Clinic_
 * [Marcus Concienne](https://www.linkedin.com/in/marcus-concienne-4889a014/), [Mitchel McCowan](https://www.linkedin.com/in/mitchel-mccowan-69367721/), [Doann Nguyen](https://www.linkedin.com/in/doannnguyen/) (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
 ## Undergraduate Students
-* [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/), _Comorbidity Network Analysis Using Atomic Cliques_ 
+* [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/), _Comorbidity Network Analysis Using Atomic Cliques_
 * [Bailey Whitman](https://www.linkedin.com/in/bailey-whitman-bonjour-01a141bb/), _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
