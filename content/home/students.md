@@ -13,4 +13,5 @@ subtitle = ""
 * [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456)
 * Pouya Ahadi
+* [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/)
 > [***My former students ...***]({{< ref "/students/_index.md" >}})
