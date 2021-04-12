@@ -53,7 +53,8 @@ header:
 * [Erin Lee](https://www.linkedin.com/in/erin-cunningham-mba-57b8253b/), [Steven Miklosko](https://www.linkedin.com/in/srmiklosko/), [Amy Zeckser](https://www.linkedin.com/in/amy-zeckser-41271295/) (Spring 2013), _Process Improvement in Stillwater Medical Center's Same Day Surgery Department in Stillwater, Oklahoma_
 * [Marco Borunda](https://www.linkedin.com/in/marco-borunda/), [Nadia Brigita](https://www.linkedin.com/in/nadia-brigita-95b61b44/), Bailey Layman (Fall 2009), _An Investigation of High Patient Waiting Time at the Baptist Community Clinic_
 * [Marcus Concienne](https://www.linkedin.com/in/marcus-concienne-4889a014/), [Mitchel McCowan](https://www.linkedin.com/in/mitchel-mccowan-69367721/), [Doann Nguyen](https://www.linkedin.com/in/doannnguyen/) (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
-## Undergraduate Student Papers
+## Undergraduate Students
+* [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/), _Comorbidity Network Analysis Using Atomic Cliques_ 
 * [Bailey Whitman](https://www.linkedin.com/in/bailey-whitman-bonjour-01a141bb/), _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
