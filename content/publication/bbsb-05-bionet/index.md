@@ -10,3 +10,5 @@ publication: "*Journal of Combinatorial Optimization*"
 url_pdf: "https://rdcu.be/b6a3D"
 doi: "10.1007/s10878-005-1857-x"
 ---
+
+**Erratum**
