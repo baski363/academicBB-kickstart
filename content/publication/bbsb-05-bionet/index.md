@@ -11,4 +11,9 @@ url_pdf: "https://rdcu.be/b6a3D"
 doi: "10.1007/s10878-005-1857-x"
 ---
 
-**Erratum**
+**Erratum.**
+
+
+
+1. J.M. Bourjolly, G. Laporte, G. Pesant, An exact algorithm for the maximum k-club problem in an undirected graph, _European Journal of Operational Research_ 138 (2002) 21–28.
+2. J.M. Bourjolly, G. Laporte, G. Pesant, Heuristics for finding k-clubs in an undirected graph, _Computers & Operations Research_ 27 (2000) 559–569.
