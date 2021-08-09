@@ -23,7 +23,7 @@ header:
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://sites.google.com/site/foadmahdavi/) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
-* Pouya Ahadi (Spring 2021), Thesis: _Optimizing expected cross value for genetic introgression_
+* [Pouya Ahadi](https://www.linkedin.com/in/pouya-ahadi-06947712b/) (Spring 2021), Thesis: _Optimizing expected cross value for genetic introgression_
 * [Tyler Davis](https://www.linkedin.com/in/tyler-davis-197012153/) (Fall 2017), Thesis: _Parallelization of the Clark, Colbourn, and Johnson maximum clique algorithm for unit disk graphs_
 * [Rajeev Gangwar](https://www.linkedin.com/in/gangwarrajeev) (Spring 2017)
 * [Sampreet Mangalvedhe](https://www.linkedin.com/in/sampreetmangalvedhe) (Fall 2016), Thesis:  _On a biobjective flow problem in networks_
