@@ -45,6 +45,8 @@ header:
 * Rahul Banda (Fall 2009)
 * [Krishna Chaitanya Gunturu](http://www.linkedin.com/in/krishnagunturu) (Summer 2009)
 ## Senior Design Teams
+* [Cade Phelan](https://www.linkedin.com/in/cade-phelan/), [Victoria Richardson](https://www.linkedin.com/in/victoria-richardson-okstate/), [Kaustuvi Thapa](https://www.linkedin.com/in/kaustuvi/) (Spring 2021), _Cost-effective Freight Carrier Selection for ArcBest_
+  * Top-5 finalist for the _2021 Outstanding ISE Capstone Senior Design Project Award_ given by the Institute of Industrial and Systems Engineers
 * [Jennifer Fallon](https://www.linkedin.com/in/jennifer-fallon-2184b7197/), [Brittany Grubert](https://www.linkedin.com/in/brittany-grubert-a67600158/), [Rylee Hunter](https://www.linkedin.com/in/rylee-hunter-bb392a96/), [Charlie Robson](https://www.linkedin.com/in/charlie-robson-3a0606160/) (Spring 2020), _Increasing Air Fleet Availability at the OSU Flight Center_
 * [Ahmed Almuhanna](https://www.linkedin.com/in/ahmed-almuhanna-36abb4177/), [Andrew Browning](https://www.linkedin.com/in/andrew-browning-442701150/), [Erica Crain](https://www.linkedin.com/in/ericabcrain/), [Michael Moylan](https://www.linkedin.com/in/michaelpmoylan1/) (Spring 2019), _Enhancement of Inventory Simulator for Engine Parts at American Airlines Maintenance Facility_
 * [Ronnie Comeau](https://www.linkedin.com/in/ronald-comeau-305a0b138/), [Jazmin Wilson](https://www.linkedin.com/in/jazmin-wilson-5231a513b/), [Qidong Zhai](https://www.linkedin.com/in/qidong-zhai/) (Fall 2017), _An Optimized Scheduling Methodology for Air Traffic Controllers at the Federal Aviation Administration_
