@@ -11,6 +11,7 @@ title = "Links"
 subtitle = ""
 +++
 ## Writing style tips & tricks:
+* [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.uqea1c9tx)
 * [How to Write About Operations Research by Prof. Brown](https://faculty.nps.edu/gbrown/docs/Brown-%20howtowriteaboutor3.pdf)
 * [Ten Simple Rules for Mathematical Writing by Prof. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 * [Writing Math Well by Prof. Su](https://math.hmc.edu/su/writing-math-well/)
