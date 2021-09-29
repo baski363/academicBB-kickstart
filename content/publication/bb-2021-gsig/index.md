@@ -1,6 +1,6 @@
 ---
 title: "Graph signatures: Identification and optimization"
-date: 2021-04-01
+date: 2022-02-01
 authors: ["Balabhaskar Balasundaram", "Juan S. Borrero", "Hao Pan"]
 publication_types: ["2"]
 abstract: "We introduce a new graph-theoretic paradigm called a *graph signature* that describes persistent patterns in a sequence of graphs. This framework is motivated by the need to detect subgraphs of significance in  temporal networks, e.g.,  social and biological networks that  evolve over time. Because the subgraphs of interest may not all \"look alike\" in the snapshots of the temporal network, the framework  deems a subgraph to be  *persistent* if it satisfies one of several preselected properties  in each snapshot  of a consecutive  subsequence. The persistency requirement is parameterized by the  length of this subsequence. This discrete mathematical framework can be viewed more broadly  as a way to generalize classical graph properties and  invariants associated with a single graph to a sequence of graphs.
