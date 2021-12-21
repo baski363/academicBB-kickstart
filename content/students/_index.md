@@ -15,7 +15,7 @@ header:
 ---
 ## Doctoral Students
 * [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (in progress)
-* [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (in progress)
+* [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
 * [Zhuqi Miao](https://www.linkedin.com/in/zhuqi-miao-84579a54) (May 2015), Dissertation: _Combinatorial and global optimization approaches to the maximum quasi-clique problem_
