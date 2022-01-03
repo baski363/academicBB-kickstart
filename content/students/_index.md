@@ -14,7 +14,8 @@ header:
   image: ""
 ---
 ## Doctoral Students
-* [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (in progress)
+* [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (_in progress_)
+* [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (_in progress_)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
