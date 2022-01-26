@@ -10,6 +10,10 @@ weight = 80  # Order that this section will appear.
 title = "Links"
 subtitle = ""
 +++
+## Advice for new PhD students:
+* [Twenty things I wish I’d known when I started my PhD by Dr. Lucy Taylor](https://www.nature.com/articles/d41586-018-07332-x)
+* [Your Research Career is a Long Game by Dr. Casey Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)
+* [10 Tips for New Doctoral Students by Dr. Jamie Hipp](https://www.insidehighered.com/advice/2019/03/19/advice-students-just-beginning-their-phds-opinion)
 ## Writing style tips & tricks:
 * [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.uqea1c9tx)
 * [How to Write About Operations Research by Prof. Brown](https://faculty.nps.edu/gbrown/docs/Brown-%20howtowriteaboutor3.pdf)
