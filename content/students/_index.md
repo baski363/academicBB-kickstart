@@ -57,6 +57,8 @@ header:
 * [Marco Borunda](https://www.linkedin.com/in/marco-borunda/), [Nadia Brigita](https://www.linkedin.com/in/nadia-brigita-95b61b44/), Bailey Layman (Fall 2009), _An Investigation of High Patient Waiting Time at the Baptist Community Clinic_
 * [Marcus Concienne](https://www.linkedin.com/in/marcus-concienne-4889a014/), [Mitchel McCowan](https://www.linkedin.com/in/mitchel-mccowan-69367721/), [Doann Nguyen](https://www.linkedin.com/in/doannnguyen/) (Fall 2008), _An Investigation into the Development of a Method to Identify RFQ Similarity at Webco Industries, Inc._
 ## Undergraduate Students
+* [Kaustuvi Thapa](https://www.linkedin.com/in/kaustuvi/), _Integer Programming Approach to Solving a Carrier Selection Problem_
+  - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, February 2022
 * [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/), _Comorbidity Network Analysis Using Atomic Cliques_
 * [Bailey Whitman](https://www.linkedin.com/in/bailey-whitman-bonjour-01a141bb/), _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
@@ -74,7 +76,7 @@ header:
   - Second Place, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
 * [Ajay Reddy](https://www.linkedin.com/in/ajay-reddy-b1757a89/), [Ryan Sullivan](https://www.linkedin.com/in/rybitron/), _An Analysis of Process Documentation at a Software Providing Organization_
   - Participant, IIE South-Central Regional Undergraduate Student Paper Competition, Feb 2013
-* [Austin Buchanan](https://www.linkedin.com/in/austin-buchanan-a988a721/), [Adrian Smith](https://www.linkedin.com/in/adrian-smith-05544282/), _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
+* [Austin Buchanan](https://www.linkedin.com/in/austin-buchanan-a988a721/), _An Investigation into Instructor Staffing at Oklahoma State University Fire Service Training_
   - First Place, IIE South-Central Regional Undergraduate  Student Paper Competition, March 2012
   - First Place, IIE International Undergraduate Student Paper Competition, May 2012
   - Participant, INFORMS Undergraduate Paper Competition, Nov 2011
