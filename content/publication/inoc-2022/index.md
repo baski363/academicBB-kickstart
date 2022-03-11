@@ -1,5 +1,5 @@
 ---
-title: "A decomposition branch-and-cut algorithm for the maximum cross-Graph $k$-club problem"
+title: "A decomposition branch-and-cut algorithm for the maximum cross-graph $k$-club problem"
 date: 2022-02-08
 authors: ["Hao Pan", "Balabhaskar Balasundaram", "Juan S. Borrero"]
 publication_types: ["1"]
