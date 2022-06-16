@@ -16,7 +16,7 @@ subtitle = ""
 * [10 Tips for New Doctoral Students by Dr. Jamie Hipp](https://www.insidehighered.com/advice/2019/03/19/advice-students-just-beginning-their-phds-opinion)
 * [The importance of stupidity in scientific research by Dr. Martin A. Schwartz](https://doi.org/10.1242/jcs.033340)
 ## Writing style tips & tricks:
-* [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.uqea1c9tx)
+* [How to Email Your Professor (without being annoying AF by Dr. Laura Portwood-Stacer)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.uqea1c9tx)
 * [How to Write About Operations Research by Prof. Brown](https://faculty.nps.edu/gbrown/docs/Brown-%20howtowriteaboutor3.pdf)
 * [Ten Simple Rules for Mathematical Writing by Prof. Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 * [Writing Math Well by Prof. Su](https://math.hmc.edu/su/writing-math-well/)
