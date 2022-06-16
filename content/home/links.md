@@ -14,6 +14,7 @@ subtitle = ""
 * [Twenty things I wish I’d known when I started my PhD by Dr. Lucy Taylor](https://www.nature.com/articles/d41586-018-07332-x)
 * [Your Research Career is a Long Game by Dr. Casey Fiesler](https://cfiesler.medium.com/advice-for-new-phd-students-your-research-career-is-a-long-game-4721abbd80ac)
 * [10 Tips for New Doctoral Students by Dr. Jamie Hipp](https://www.insidehighered.com/advice/2019/03/19/advice-students-just-beginning-their-phds-opinion)
+* [The importance of stupidity in scientific research by Dr. Martin A. Schwartz](https://doi.org/10.1242/jcs.033340)
 ## Writing style tips & tricks:
 * [How to Email Your Professor (without being annoying AF)](https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087#.uqea1c9tx)
 * [How to Write About Operations Research by Prof. Brown](https://faculty.nps.edu/gbrown/docs/Brown-%20howtowriteaboutor3.pdf)
