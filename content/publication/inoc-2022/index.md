@@ -7,5 +7,5 @@ abstract: "The analysis of social and biological networks often involves modelin
 "
 featured: false
 publication: "*Proceedings of the 10th International Network Optimization Conference (INOC 2022)*"
-url_pdf: ""
+url_pdf: "http://www.openproceedings.org/html/pages/2022_inoc.html"
 ---
