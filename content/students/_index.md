@@ -15,7 +15,6 @@ header:
 ---
 ## Doctoral Students
 * [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (_in progress_)
-* [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (_in progress_)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
 * [Babak Farmanesh](https://www.linkedin.com/in/babak-farmanesh-660009104) (Co-advisor, August 2018), Dissertation: _Efficient techniques for statistical modeling of calibration and spatio-temporal systems using Gaussian processes_
@@ -24,6 +23,7 @@ header:
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://sites.google.com/site/foadmahdavi/) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
+* [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/) (_in progress_)
 * [Pouya Ahadi](https://www.linkedin.com/in/pouya-ahadi-06947712b/) (Spring 2021), Thesis: _Optimizing expected cross value for genetic introgression_
 * [Tyler Davis](https://www.linkedin.com/in/tyler-davis-197012153/) (Fall 2017), Thesis: _Parallelization of the Clark, Colbourn, and Johnson maximum clique algorithm for unit disk graphs_
 * [Rajeev Gangwar](https://www.linkedin.com/in/gangwarrajeev) (Spring 2017)
@@ -60,6 +60,8 @@ header:
 * [Kaustuvi Thapa](https://www.linkedin.com/in/kaustuvi/), _Integer Programming Approach to Solving a Carrier Selection Problem_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, February 2022
 * [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/), _Comorbidity Network Analysis Using Atomic Cliques_
+  - Recipient, CEAT Undergraduate Research Scholarship 2020-2021 and 2021-2022
+  - Presenter, 2022 Oklahoma State University Undergraduate Research Symposium
 * [Bailey Whitman](https://www.linkedin.com/in/bailey-whitman-bonjour-01a141bb/), _Determining an Optimal Inventory Mix for NABco Industries_
   - First Place, IISE South-Central Regional Undergraduate Student Paper Competition, March 2018
   - Finalist, IISE International Undergraduate Student Paper Competition, May 2018
