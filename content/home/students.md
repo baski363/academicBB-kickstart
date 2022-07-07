@@ -11,6 +11,4 @@ title = "Current Students"
 subtitle = ""
 +++
 * [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/)
-* [Parisa Sahraeian](https://www.linkedin.com/in/parisa-sahraeian-950a47143/)
-* [Aarushi Singh](https://www.linkedin.com/in/aarushi-singh-1a37a3194/)
 > [***My former students ...***]({{< ref "/students/_index.md" >}})
