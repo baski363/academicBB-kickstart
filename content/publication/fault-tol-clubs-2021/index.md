@@ -1,6 +1,6 @@
 ---
 title: "On fault-tolerant low-diameter clusters in graphs"
-date: 2021-08-20
+date: 2022-07-26
 authors: ["Yajun Lu", "Hosseinali Salemi", "Balabhaskar Balasundaram", "Austin Buchanan"]
 publication_types: ["3"]
 abstract: "Cliques and their generalizations are frequently used to model \"tightly knit\" clusters in graphs, and identifying such clusters is a popular technique used in graph-based data mining. One such model is the $s$-club, which is a vertex subset that induces a subgraph of diameter at most $s$. This model has found use in a variety of fields because  low-diameter clusters have practical significance  in many applications. As this property is not hereditary on vertex-induced subgraphs, the diameter of a subgraph could increase upon the removal of some vertices and  the subgraph could even become disconnected. For example, star graphs have  diameter  two but can be disconnected by removing the central vertex.
