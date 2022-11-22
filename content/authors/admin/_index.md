@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:baski.b@pm.me'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   link: https://mastodon.online/@baski
 - icon: linkedin
