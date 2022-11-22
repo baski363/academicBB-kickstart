@@ -57,9 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Balabhaskar_Balasundaram
-- icon: orcid
+<!-- - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-3490-4257
+  link: https://orcid.org/0000-0002-3490-4257 -->
 #- icon: graduation-cap
 #  icon_pack: fas
 - icon: dryad
