@@ -54,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: http://github.com/baski363
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Balabhaskar_Balasundaram
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Balabhaskar_Balasundaram
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-3490-4257 -->
