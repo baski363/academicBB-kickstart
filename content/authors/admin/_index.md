@@ -44,7 +44,7 @@ social:
   link: 'mailto:baski.b@pm.me'  # For a direct email link, use "mailto:test@example.org".
 - icon: mastodon
   icon_pack: fab
-  link: <a rel="me" href="https://mastodon.online/@baski">Mastodon</a>
+  link: https://mastodon.online/@baski
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/baski363/
