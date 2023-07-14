@@ -18,7 +18,7 @@ organizations:
   url: "https://ceat.okstate.edu/iem/people/baski-faculty-profile.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include theoretical, algorithmic, and computational aspects of solving network optimization problems.
+bio: 
 
 interests:
 - Combinatorial Optimization & Integer Programming
@@ -81,8 +81,6 @@ social:
 #- Visitors
 ---
 
-I received my Ph.D in Industrial Engineering from Texas A&M University, 2007 and my B.Tech in Mechanical Engineering from the Indian Institute of Technology-Madras in 2002. Theoretical, algorithmic, and computational aspects of solving network optimization problems are my main research interests.
-
-I am very interested in the analysis of complex biological and social networks using graph-theoretic concepts and optimization techniques. I often work on projects that apply optimization tools to solve problems that arise in transportation logistics, production-inventory planning, scheduling, routing, and other classical areas of operations research.
+I received my Ph.D in Industrial Engineering from Texas A&M University in 2007 and my B.Tech in Mechanical Engineering from the Indian Institute of Technology-Madras in 2002. I am primarily interested in solving combinatorial optimization problems modeled on networks and applications of integer programming. This has led me into diverse domains including computational biology, social network analysis, and graph-based data mining, as well as classical areas of operations research like transportation logistics, production-inventory planning, and scheduling. 
 
 My work has been sponsored by the NSF, DoE, AFOSR, and industry. Publications coauthored with my students and other collaborators have appeared in _Operations Research_, _INFORMS Journal on Computing_, _INFORMS Journal on Optimization_, and _INFORMS Journal on Applied Analytics_, among others. I serve on the editorial boards of _Networks_ (Wiley) and _Journal of Global Optimization_ (Springer).
