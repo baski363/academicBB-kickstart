@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = """School of Industrial Engineering and Management, Oklahoma State University"""
   company_url = ""
   location = "Stillwater, Oklahoma, USA"
-  date_start = "2020-06-19"
+  date_start = "2020-07-01"
   date_end = ""
 
 [[experience]]
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Stillwater, Oklahoma, USA"
   date_start = "2013-07-01"
-  date_end = "2020-06-18"
+  date_end = "2020-06-30"
 
 [[experience]]
   title = "Graduate Program Director"
