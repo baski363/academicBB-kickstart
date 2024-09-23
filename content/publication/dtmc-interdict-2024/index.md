@@ -1,6 +1,6 @@
 ---
-title: "On fault-tolerant low-diameter clusters in graphs"
-date: 2022-12-26
+title: "First passage time interdiction in {Markov} chains"
+date: 2024-04-05
 authors: ["Niloufar Daemi", "Juan S. Borrero", "Balabhaskar Balasundaram"]
 publication_types: ["2"]
 doi: "https://doi.org/10.1016/j.orl.2024.107111"
