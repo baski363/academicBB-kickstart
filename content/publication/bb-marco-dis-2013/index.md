@@ -8,5 +8,5 @@ abstract: "One way to achieve reliability with low-latency is through multi-path
 featured: false
 publication: "*Optimization Letters*"
 url_pdf: "https://rdcu.be/b6a3j"
-doi: "10.1007/s11590-012-0453-0"
+doi: "https://doi.org/10.1007/s11590-012-0453-0"
 ---
