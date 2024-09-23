@@ -1,5 +1,5 @@
 ---
-title: "First passage time interdiction in {Markov} chains"
+title: "First passage time interdiction in Markov chains"
 date: 2024-04-05
 authors: ["Niloufar Daemi", "Juan S. Borrero", "Balabhaskar Balasundaram"]
 publication_types: ["2"]
