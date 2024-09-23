@@ -14,6 +14,7 @@ header:
   image: ""
 ---
 ## Doctoral Students
+* [Zahra Mirtalebi](https://www.linkedin.com/in/zahra-mirtalebi-54954a219/) (_in progress_)
 * [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/) (_in progress_)
 * [Hao Pan](https://www.linkedin.com/in/hao-pan-9b905456) (December 2021), Dissertation: _Mining low-diameter clusters conserved in graph collections_
 * [Yajun Lu](https://yajunlu.com/) (July 2019), Dissertation: _Finding second-order clubs_
