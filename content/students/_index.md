@@ -24,8 +24,8 @@ header:
 * [Juan Ma](https://www.linkedin.com/in/juan-ma-58763a38) (Co-advisor, December 2015), Dissertation: _Proactive approaches for system design under uncertainty applied to network synthesis and capacity planning_
 * [Foad Mahdavi Pajouh](https://faculty.stevens.edu/fmahdav1) (August 2012), Dissertation: _Polyhedral combinatorics, complexity & algorithms for k-clubs in graphs_
 ## Masters Students
-* [Garet Crispin](https://www.linkedin.com/in/garet-crispin/) (_In progress_)
 * [Clay Wyrrick]() (_In progress_)
+* [Garet Crispin](https://www.linkedin.com/in/garet-crispin/) (_In progress_)
 * [Satarupa Nandy](https://www.linkedin.com/in/satarupa-nandy/) (Spring 2024)
 * [Sai Parvatharaju](https://www.linkedin.com/in/saivamsi05/) (Spring 2024)
 * [Aditya Shete](https://www.linkedin.com/in/adishete97/) (Spring 2024)
