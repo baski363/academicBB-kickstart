@@ -10,7 +10,7 @@ weight = 60  # Order that this section will appear.
 title = "Current Students"
 subtitle = ""
 +++
-* [Clay Wyrrick]() (_In progress_)
+* [Clay Wyrrick]()
 * [Garet Crispin](https://www.linkedin.com/in/garet-crispin/)
 * [Zahra Mirtalebi](https://www.linkedin.com/in/zahra-mirtalebi-54954a219/) 
 * [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/)
