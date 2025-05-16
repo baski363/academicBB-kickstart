@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Wilson Bentley Professor of Industrial Engineering & Management
+role: Professor of Industrial Engineering & Management
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Combinatorial Optimization & Integer Programming
-- Computational Biology & Social Network Analysis
-- Operations Research Applications
+- Graph-powered Analytics
+- Optimization Applications
 
 education:
   courses:
