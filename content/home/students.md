@@ -12,6 +12,5 @@ subtitle = ""
 +++
 * [Clay Wyrrick]()
 * [Garet Crispin](https://www.linkedin.com/in/garet-crispin/)
-* [Zahra Mirtalebi](https://www.linkedin.com/in/zahra-mirtalebi-54954a219/) 
-* [Parisa Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/)
+* [Parisa Vaghfi Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/)
 > [***My former students ...***]({{< ref "/students/_index.md" >}})
