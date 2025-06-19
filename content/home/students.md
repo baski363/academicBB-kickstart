@@ -13,4 +13,4 @@ subtitle = ""
 * [Clay Wyrrick]()
 * [Garet Crispin](https://www.linkedin.com/in/garet-crispin/)
 * [Parisa Vaghfi Mohebbi](https://www.linkedin.com/in/parisa-v-mohebbi-15015b178/)
-> [***My former students ...***]({{< ref "/students/_index.md" >}})
+> [***All students ...***]({{< ref "/students/_index.md" >}})
