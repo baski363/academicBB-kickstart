@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Students"
-  url = "#students"
+  url = "students/_index.md"
   weight = 30
 
 [[main]]
